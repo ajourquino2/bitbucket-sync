@@ -1,3 +1,3 @@
 function myFunction() {
-  console.log('test2234');
+  console.log('test1');
 }
